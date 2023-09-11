@@ -1,0 +1,10 @@
+D:\Session 18 task of C#\MovieController\obj\Debug\MovieController.csproj.AssemblyReference.cache
+D:\Session 18 task of C#\MovieController\obj\Debug\MovieController.csproj.CoreCompileInputs.cache
+D:\Session 18 task of C#\MovieController\bin\Debug\MovieController.exe.config
+D:\Session 18 task of C#\MovieController\bin\Debug\MovieController.exe
+D:\Session 18 task of C#\MovieController\bin\Debug\MovieController.pdb
+D:\Session 18 task of C#\MovieController\bin\Debug\MovieClassL.dll
+D:\Session 18 task of C#\MovieController\bin\Debug\MovieClassL.pdb
+D:\Session 18 task of C#\MovieController\obj\Debug\MovieController.csproj.CopyComplete
+D:\Session 18 task of C#\MovieController\obj\Debug\MovieController.exe
+D:\Session 18 task of C#\MovieController\obj\Debug\MovieController.pdb
